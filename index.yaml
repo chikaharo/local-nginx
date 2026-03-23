@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - local-nginx/nginx-0.1.2.tgz
+    - nginx-0.1.2.tgz
     version: 0.1.2
 generated: "2026-03-23T10:35:40.8175187+07:00"
